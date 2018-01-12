@@ -3,7 +3,7 @@ Contributors: seanvoss
 Tags: woocommerce, name your own price, donation, free name your own price, fee donation woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 0.9
+Stable tag: 1.7
 Donate link: https://blog.seanvoss.com/shatner/
 License: GPLv2 or later
 
@@ -28,6 +28,23 @@ None at this time
 None at this time
 
 == Changelog ==
+
+= 1.7 =
+* Don't allow negative values (Thanks Ben Deschamps)
+= 1.6 =
+* Shatner trying to set prices on all items
+= 1.5 =
+* Allowing enforcing minimum
+= 1.4 =
+* Force naming a price
+= 1.3 =
+* Fix default template value
+= 1.2 =
+* Fix  radio buttons not saving
+= 1.1 =
+* Fix  "A"
+= 1.0 =
+* Fix missing admin button
 = 0.9 =
 * Change settings to allow disabling of templates and override price template, also add an out of order require
 = 0.8 =
