@@ -1,15 +1,17 @@
 <?php
 /*
 Plugin Name: WooCommerce - Name your own price
-Plugin URI: http://blog.seanvoss.com/product/shatner
+Plugin URI: http://sterlingdev.net/name-your-price
 Description: Allows users to set their own price (can also be used for donations) 
-Version: 1.7
-Author: Sean Voss
-Author URI: http://seanvoss.com/
+Version: 1.8
+Author: Cole Sterling
+Author URI: http://sterlingdev.net
 
 */
 
 /*
+ * Plugin updated and forked from the plugin below by Sean Voss
+ * Original plugin has not been updated for ~4 years as of 2018-1-12
  * Title   : WooCommerce Name your own price
  * Author  : Sean Voss
  * Url     : http://blog.seanvoss.com/product/shatner
